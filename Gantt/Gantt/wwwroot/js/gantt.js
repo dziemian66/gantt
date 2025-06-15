@@ -21,17 +21,23 @@ window.setupGanttDrag = () => {
     document.addEventListener('mouseup', () => {
         console.log("mouseup!");
         if (currentTask) {
-            currentTask._startPx = parseInt(currentTask.style.left);
+            const px = parseInt(currentTask.style.left);
+            const column = Math.round(px / columnWidth);
+            if (currentTask._helper) {
+                currentTask._helper.invokeMethodAsync('OnDragEnd', column);
+            }
+            currentTask._startPx = px;
             currentTask = null;
         }
     });
 };
 
-window.enableTaskDrag = (element) => {
+window.enableTaskDrag = (element, dotnetHelper) => {
     element.addEventListener('mousedown', e => {
         console.log("mousedown!");
         currentTask = element;
         startX = e.clientX;
         element._startPx = parseInt(element.style.left);
+        element._helper = dotnetHelper;
     });
 };
