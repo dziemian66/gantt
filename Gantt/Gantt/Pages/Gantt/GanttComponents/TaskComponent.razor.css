@@ -1,0 +1,10 @@
+﻿.gantt-task {
+    position: absolute;
+    height: 30px;
+    background-color: steelblue;
+    color: white;
+    padding: 4px;
+    cursor: grab;
+    border-radius: 3px;
+    font-size: 12px;
+}

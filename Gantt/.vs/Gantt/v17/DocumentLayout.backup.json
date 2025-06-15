@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\Gantt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\gantt\\chart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\gantt\\chart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\gantt\\chart.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\gantt\\chart.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\wwwroot\\js\\gantt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\wwwroot\\js\\gantt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\gantt\\ganttcomponents\\taskcomponent.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\models\\taskrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\models\\taskrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\wwwroot\\css\\gantt.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\wwwroot\\css\\gantt.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|c:\\myprojects\\gantt\\gantt\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67711F38-CA7E-499C-8105-22AB3CEAAA77}|Gantt\\Gantt.csproj|solutionrelative:gantt\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskComponent.razor.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.cs",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.cs",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.cs",
+              "RelativeToolTip": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:33:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskComponent.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor",
+              "RelativeToolTip": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T19:32:47.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRow.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Models\\TaskRow.cs",
+              "RelativeDocumentMoniker": "Gantt\\Models\\TaskRow.cs",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Models\\TaskRow.cs",
+              "RelativeToolTip": "Gantt\\Models\\TaskRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:27:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Gantt\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Gantt\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:26:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chart.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\Chart.razor",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Gantt\\Chart.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\Chart.razor",
+              "RelativeToolTip": "Gantt\\Pages\\Gantt\\Chart.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:21:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chart.razor.css",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\Chart.razor.css",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Gantt\\Chart.razor.css",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\Chart.razor.css",
+              "RelativeToolTip": "Gantt\\Pages\\Gantt\\Chart.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-11T19:18:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Gantt\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Gantt\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T16:59:10.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gantt.js",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\js\\gantt.js",
+              "RelativeDocumentMoniker": "Gantt\\wwwroot\\js\\gantt.js",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\js\\gantt.js",
+              "RelativeToolTip": "Gantt\\wwwroot\\js\\gantt.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T16:41:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskComponent.razor.css",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.css",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.css",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.css",
+              "RelativeToolTip": "Gantt\\Pages\\Gantt\\GanttComponents\\TaskComponent.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-11T19:36:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Program.cs",
+              "RelativeDocumentMoniker": "Gantt\\Program.cs",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Program.cs",
+              "RelativeToolTip": "Gantt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:27:56.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Gantt\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:45:26.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Gantt\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:44:24.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Gantt\\Pages\\Index.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Pages\\Index.razor",
+              "RelativeToolTip": "Gantt\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:44:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\App.razor",
+              "RelativeDocumentMoniker": "Gantt\\App.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\App.razor",
+              "RelativeToolTip": "Gantt\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:15:29.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Gantt\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Gantt\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:14:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gantt.css",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\css\\gantt.css",
+              "RelativeDocumentMoniker": "Gantt\\wwwroot\\css\\gantt.css",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\wwwroot\\css\\gantt.css",
+              "RelativeToolTip": "Gantt\\wwwroot\\css\\gantt.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T17:01:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Gantt\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Gantt\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:14:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\MyProjects\\Gantt\\Gantt\\_Imports.razor",
+              "RelativeDocumentMoniker": "Gantt\\_Imports.razor",
+              "ToolTip": "C:\\MyProjects\\Gantt\\Gantt\\_Imports.razor",
+              "RelativeToolTip": "Gantt\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:13:05.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

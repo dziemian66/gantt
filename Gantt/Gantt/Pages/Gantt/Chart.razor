@@ -1,0 +1,52 @@
+﻿@using global::Gantt.Models
+@inject IJSRuntime JS
+
+<div class="gantt-container">
+    @foreach (var row in TaskRows)
+    {
+        <div class="gantt-row">
+            @foreach (var task in row.Tasks)
+            {
+               <Gantt.Pages.Gantt.GanttComponents.TaskComponent Task="task"/>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("setupGanttDrag");
+        }
+    }
+
+    List<TaskRow> TaskRows = new()
+    {
+        new TaskRow
+        {
+            Tasks = new List<TaskItem>
+            {
+                new() { Name = "Task A", StartPx = 50, WidthPx = 100 },
+                new() { Name = "Task B", StartPx = 200, WidthPx = 150 }
+            }
+        },
+        new TaskRow
+        {
+            Tasks = new List<TaskItem>
+            {
+                new() { Name = "Task C", StartPx = 30, WidthPx = 80 }
+            }
+        },
+        new TaskRow
+        {
+            Tasks = new List<TaskItem>
+            {
+                new() { Name = "Task D", StartPx = 30, WidthPx = 80 }
+            }
+        }
+    };
+
+    
+}
