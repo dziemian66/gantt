@@ -5,6 +5,8 @@
     padding: 10px;
     width: 100%;
     overflow-x: scroll;
+    background-image: linear-gradient(to right, #eee 1px, transparent 1px);
+    background-size: var(--column-width) 100%;
 }
 
 .gantt-row {

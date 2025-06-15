@@ -1,13 +1,20 @@
-﻿let currentTask = null;
+let currentTask = null;
 let startX = 0;
+let columnWidth = 50;
+
+window.setColumnWidth = (w) => {
+    columnWidth = w;
+};
+
 console.log("🔥 gantt.js LOADED 🔥");
 window.setupGanttDrag = () => {
     document.addEventListener('mousemove', e => {
         if (currentTask) {
             const dx = e.clientX - startX;
             const newLeft = currentTask._startPx + dx;
-            currentTask.style.left = `${newLeft}px`;
-            console.log(`🟢 przesuwam: ${newLeft}px`);
+            const snapped = Math.round(newLeft / columnWidth) * columnWidth;
+            currentTask.style.left = `${snapped}px`;
+            console.log(`🟢 przesuwam: ${snapped}px`);
         }
     });
 

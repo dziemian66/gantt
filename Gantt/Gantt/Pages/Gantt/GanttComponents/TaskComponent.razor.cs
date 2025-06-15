@@ -10,6 +10,8 @@ namespace Gantt.Pages.Gantt.GanttComponents
     {
         [Parameter]
         public TaskItem Task { get; set; }
+        [Parameter]
+        public int ColumnWidth { get; set; }
         [Inject]
         public IJSRuntime JS { get; set; }
 

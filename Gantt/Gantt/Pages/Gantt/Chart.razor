@@ -1,23 +1,26 @@
 ﻿@using global::Gantt.Models
 @inject IJSRuntime JS
 
-<div class="gantt-container">
+<div class="gantt-container" style="--column-width:@($"{ColumnWidth}px")">
     @foreach (var row in TaskRows)
     {
         <div class="gantt-row">
             @foreach (var task in row.Tasks)
             {
-               <Gantt.Pages.Gantt.GanttComponents.TaskComponent Task="task"/>
+               <Gantt.Pages.Gantt.GanttComponents.TaskComponent Task="task" ColumnWidth="ColumnWidth" />
             }
         </div>
     }
 </div>
 
 @code {
+    private const int ColumnWidth = 50;
+
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
+            await JS.InvokeVoidAsync("setColumnWidth", ColumnWidth);
             await JS.InvokeVoidAsync("setupGanttDrag");
         }
     }
@@ -28,22 +31,22 @@
         {
             Tasks = new List<TaskItem>
             {
-                new() { Name = "Task A", StartPx = 50, WidthPx = 100 },
-                new() { Name = "Task B", StartPx = 200, WidthPx = 150 }
+                new() { Name = "Task A", ColumnStart = 1, ColumnSpan = 2 },
+                new() { Name = "Task B", ColumnStart = 4, ColumnSpan = 3 }
             }
         },
         new TaskRow
         {
             Tasks = new List<TaskItem>
             {
-                new() { Name = "Task C", StartPx = 30, WidthPx = 80 }
+                new() { Name = "Task C", ColumnStart = 0, ColumnSpan = 2 }
             }
         },
         new TaskRow
         {
             Tasks = new List<TaskItem>
             {
-                new() { Name = "Task D", StartPx = 30, WidthPx = 80 }
+                new() { Name = "Task D", ColumnStart = 0, ColumnSpan = 2 }
             }
         }
     };
