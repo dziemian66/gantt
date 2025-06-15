@@ -1,6 +1,5 @@
-﻿<div class="gantt-task"
+<div class="gantt-task"
      @ref="Task.Ref"
-     style="left:@(Task.StartPx)px; width:@(Task.WidthPx)px"
-     @onmousedown="e => StartDrag(Task, e)">
+     style="left:@(Task.StartPx(ColumnWidth))px; width:@(Task.WidthPx(ColumnWidth))px">
     @Task.Name
 </div>
